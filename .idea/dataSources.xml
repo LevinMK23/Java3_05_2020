@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="lessonDB" uuid="3e8d1565-a520-482e-abfc-1db70b7bd28a">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:lessonDB</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="lessonDB [2]" uuid="aaf5a8d3-cdb2-4473-a90e-289558126965">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/lessonDB</jdbc-url>
+    </data-source>
+  </component>
+</project>
