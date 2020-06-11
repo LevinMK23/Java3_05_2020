@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact name="Java3_05_2020:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Java3_05_2020_jar</output-path>
+    <root id="root">
+      <element id="archive" name="Java3_05_2020.jar">
+        <element id="module-output" name="Java3_05_2020" />
+      </element>
+      <element id="library" level="project" name="Maven: org.xerial:sqlite-jdbc:3.31.1" />
+      <element id="library" level="project" name="Maven: org.apache.logging.log4j:log4j-core:2.13.0" />
+      <element id="library" level="project" name="Maven: log4j:log4j:1.2.17" />
+      <element id="library" level="project" name="Maven: org.apache.logging.log4j:log4j-api:2.13.0" />
+    </root>
+  </artifact>
+</component>
